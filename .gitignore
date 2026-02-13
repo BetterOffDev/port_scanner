@@ -1,0 +1,4 @@
+__pycache__/
+scan_output/
+*.json
+*.xml
